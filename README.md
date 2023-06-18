@@ -27,7 +27,7 @@ cd AmazonReviewsClassifier
 
 3. Download the Movies and TV dataset from the following link: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/.
   
-4. Open the Jupyter Notebook file `AmazonReviewsClassifier.ipynb` using Jupyter Notebook:
+4. Open the Jupyter Notebook file `AmazonReviews.ipynb` using Jupyter Notebook:
 
 ```
 jupyter notebook AmazonReviewsClassifier.ipynb
